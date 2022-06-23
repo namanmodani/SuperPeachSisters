@@ -4,9 +4,9 @@ Super Peach Sisters is set in the Mushroom Queendom, fictional land of crazy cre
 
 ### Build Notes
 
-Created in Winter 2022 for UCLA's CS 32 Project 3 submission, taken under Professor David A. Smallberg. This repository simply serves as a container for the completed game. The full source code is contained in `Part 2/`, while the incremental development and build history of this project can be found [here](https://github.com/namanmodani/CS-32/tree/main/Projects), under Project 3. 
+This repository simply serves as a container for the completed game. The full source code is contained in `Part 2/`, while the incremental development and build history of this project can be found [here](https://github.com/namanmodani/CS-32/tree/main/Projects), under Project 3. 
 
-Software used: C++ (CLion), xQuartz, freeGLUT <br>
+This project was created in Winter 2022 for UCLA's CS 32 Project 3 submission, taken under Professor David A. Smallberg. Software used: C++, xQuartz, and freeGLUT.
 
 ### Build Instructions
 
