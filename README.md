@@ -15,8 +15,8 @@ Software used: C++, xQuartz, and freeGLUT.
 This is how to build SuperPeachSisters in a macOS Terminal window.
 
 1. Install [xQuartz](https://www.xquartz.org/) and [freeGLUT](http://freeglut.sourceforge.net/).
-2. Clone this repository using `$ git clone https://github.com/namanmodani/SuperPeachSisters`
+2. Clone this repository using `$ git clone https://github.com/namanmodani/SuperPeachSisters`.
 3. To build the program, change into the SuperPeachSisters directory and type 
-	`$ make`
+	`$ make`.
 4. To run the program, type 
-	`$ ./SuperPeachSisters`
+	`$ ./SuperPeachSisters`.
